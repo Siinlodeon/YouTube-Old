@@ -1,7 +1,6 @@
-# READ THIS SHIT!!!!!!!!!!
+# Read me
+ay mane this is a modified version of yt2007 from bhief, its vulnerable
 
-ay mane this is a modified version of yt2007 from bhief, its vulnerable as FUCK!!!!
+don't use this is you're gonna use this for your revival, yet i know you won't read this because there was another retard who used this source code.
 
-don't use this is you're gonna use this for your revival, yet i know you won't read this because there was another retard who used this source code LOL
-
-last updated: 7/19/2023
+last updated: 7/12/2024
